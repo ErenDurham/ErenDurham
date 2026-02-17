@@ -1,27 +1,28 @@
 # Hello! I am Eren Durham <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnU3eDQwdDExdXFvMnpiaHQzOGFwdWhiYnZldmg1bTljcWlpbTYyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9F2ExfXlv4UYb0w0zw/giphy.gif" height="50">
 
 ## 🌱 About Me
-I am a passionate and driven computer engineering student who enjoys learning about AI/ML and hardware design.
+I’m a driven computer engineering student passionate about AI, machine learning, and hardware design
 
 ## 🌷 Currently Working On
 - Researching ML approaches in prosthetic gesture recognition
-- Learning hardware design in verilog
+- Learning hardware design with verilog
 - Implementing the use of AI in robotic systems
 
 ## 🌿 Technical Skills
-
-![Python](https://img.shields.io/badge/Python-FFD1DC?style=flat&logo=python&logoColor=black)
-![Java](https://img.shields.io/badge/Java-B2E2B2?style=flat&logo=openjdk&logoColor=black)
-![C](https://img.shields.io/badge/C-FFD1DC?style=flat&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-B2E2B2?style=flat&logo=c%2B%2B&logoColor=black)
-![Verilog](https://img.shields.io/badge/Verilog-FFD1DC?style=flat)
-![ML/DL](https://img.shields.io/badge/Machine%20Learning-B2E2B2?style=flat)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FFD1DC?style=flat&logo=tensorflow&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-B2E2B2?style=flat&logo=pytorch&logoColor=black)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-FFD1DC?style=flat&logo=scikitlearn&logoColor=black)
-![OOP](https://img.shields.io/badge/OOP-B2E2B2?style=flat)
-![Data Structures](https://img.shields.io/badge/Data%20Structures-FFD1DC?style=flat)
-![Git](https://img.shields.io/badge/Git-B2E2B2?style=flat&logo=git&logoColor=black)
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-FFD1DC?style=flat&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-B2E2B2?style=flat&logo=openjdk&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-FFD1DC?style=flat&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%2B%2B-B2E2B2?style=flat&logo=c%2B%2B&logoColor=black" />
+  <img src="https://img.shields.io/badge/Verilog-FFD1DC?style=flat" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-B2E2B2?style=flat" />
+  <img src="https://img.shields.io/badge/TensorFlow-FFD1DC?style=flat&logo=tensorflow&logoColor=black" />
+  <img src="https://img.shields.io/badge/PyTorch-B2E2B2?style=flat&logo=pytorch&logoColor=black" />
+  <img src="https://img.shields.io/badge/scikit--learn-FFD1DC?style=flat&logo=scikitlearn&logoColor=black" />
+  <img src="https://img.shields.io/badge/OOP-B2E2B2?style=flat" />
+  <img src="https://img.shields.io/badge/Data%20Structures-FFD1DC?style=flat" />
+  <img src="https://img.shields.io/badge/Git-B2E2B2?style=flat&logo=git&logoColor=black" />
+</div>
 
 ## 🌸 How to Reach Me:
 <p align="center">
