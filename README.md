@@ -34,7 +34,7 @@ I am a passionate and driven computer engineering student who enjoys learning ab
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erendurham&layout=compact&title_color=FFD1DC&icon_color=FFD1DC&text_color=000000&bg_color=ffffff&border_color=B2E2B2&langs_count=6" alt="Eren's Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xx&layout=compact&title_color=FFD1DC&icon_color=FFD1DC&text_color=000000&bg_color=ffffff&border_color=B2E2B2&langs_count=6&count_private=false" alt="Eren's Top Languages" height="180" />
 </p>
 
 <p align="center">
