@@ -33,10 +33,6 @@ I am a passionate and driven computer engineering student who enjoys learning ab
   </a>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ErenDurham&layout=compact&title_color=FFD1DC&icon_color=FFD1DC&text_color=000000&bg_color=ffffff&border_color=B2E2B2&langs_count=6&count_private=false" alt="Top Languages" height="180">
-</div>
-
 <p align="center">
   Thanks for stopping by!
 </p>
