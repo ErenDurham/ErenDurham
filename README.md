@@ -1,4 +1,6 @@
-# Hello! I am Eren Durham <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnU3eDQwdDExdXFvMnpiaHQzOGFwdWhiYnZldmg1bTljcWlpbTYyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9F2ExfXlv4UYb0w0zw/giphy.gif" height="50">
+# Hello! I am Eren Durham <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3azdvNnlqN2UybnJhdWZzbGcxa2Q0M29qa202eHRvZjU5bGZ0MjFxNSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/pZSaJSS4aDQ9bHEyBr/giphy.gif" height="40">
+
+<!-- # Hello! I am Eren Durham <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnU3eDQwdDExdXFvMnpiaHQzOGFwdWhiYnZldmg1bTljcWlpbTYyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9F2ExfXlv4UYb0w0zw/giphy.gif" height="50"> -->
 
 ## 🌱 About Me
 I’m a driven computer engineering student passionate about AI, machine learning, and hardware design
@@ -40,7 +42,7 @@ I’m a driven computer engineering student passionate about AI, machine learnin
 
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGkwdzYxYXlsdHlzd3ZlZnZzaWk5MG9qZmw0aTFhbHM1cjA1dnRzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LOactPJKWtNLyErSCr/giphy.gif" height="100" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW1pYnY0Y3kyOWNicmljNjFuc3IwY2lqbzB5MG1mN3c3OTU1MXdqMyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/pHSNsdk7IzjzZ4qjOy/giphy.gif" height="100" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnU3eDQwdDExdXFvMnpiaHQzOGFwdWhiYnZldmg1bTljcWlpbTYyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9F2ExfXlv4UYb0w0zw/giphy.gif" height="85" />
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW1pYnY0Y3kyOWNicmljNjFuc3IwY2lqbzB5MG1mN3c3OTU1MXdqMyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/X5PsaxTP6U3h9dUSxd/giphy.gif" height="110" />
 </p>
 
