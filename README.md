@@ -7,7 +7,7 @@ I’m a driven computer engineering student passionate about AI, machine learnin
 
 ## 🌷 Currently Working On
 - Researching ML approaches in prosthetic gesture recognition
-- Learning hardware design with verilog
+- Learning hardware design with SystemVerilog
 - Implementing the use of AI in robotic systems
 
 ## 🌿 Technical Skills
@@ -17,13 +17,14 @@ I’m a driven computer engineering student passionate about AI, machine learnin
   <img src="https://img.shields.io/badge/C-FFD1DC?style=flat&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/C%2B%2B-B2E2B2?style=flat&logo=c%2B%2B&logoColor=black" />
   <img src="https://img.shields.io/badge/Verilog-FFD1DC?style=flat" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-B2E2B2?style=flat" />
-  <img src="https://img.shields.io/badge/TensorFlow-FFD1DC?style=flat&logo=tensorflow&logoColor=black" />
-  <img src="https://img.shields.io/badge/PyTorch-B2E2B2?style=flat&logo=pytorch&logoColor=black" />
-  <img src="https://img.shields.io/badge/scikit--learn-FFD1DC?style=flat&logo=scikitlearn&logoColor=black" />
-  <img src="https://img.shields.io/badge/OOP-B2E2B2?style=flat" />
-  <img src="https://img.shields.io/badge/Data%20Structures-FFD1DC?style=flat" />
-  <img src="https://img.shields.io/badge/Git-B2E2B2?style=flat&logo=git&logoColor=black" />
+  <img src="https://img.shields.io/badge/SystemVerilog-B2E2B2?style=flat" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FFD1DC?style=flat" />
+  <img src="https://img.shields.io/badge/TensorFlow-B2E2B2?style=flat&logo=tensorflow&logoColor=black" />
+  <img src="https://img.shields.io/badge/PyTorch-FFD1DC?style=flat&logo=pytorch&logoColor=black" />
+  <img src="https://img.shields.io/badge/scikit--learn-B2E2B2?style=flat&logo=scikitlearn&logoColor=black" />
+  <img src="https://img.shields.io/badge/OOP-FFD1DC?style=flat" />
+  <img src="https://img.shields.io/badge/Data%20Structures-B2E2B2?style=flat" />
+  <img src="https://img.shields.io/badge/Git-FFD1DC?style=flat&logo=git&logoColor=black" />
 </div>
 
 ## 🌸 How to Reach Me:
