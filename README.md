@@ -1,4 +1,4 @@
-# Hello! I am Eren Durham 😊✨
+# Hello! I am Eren Durham <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnU3eDQwdDExdXFvMnpiaHQzOGFwdWhiYnZldmg1bTljcWlpbTYyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9F2ExfXlv4UYb0w0zw/giphy.gif" height="50">
 
 ## 🌱 About Me
 I am a passionate and driven computer engineering student who enjoys learning about AI/ML and hardware design.
@@ -34,20 +34,16 @@ I am a passionate and driven computer engineering student who enjoys learning ab
 </p>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGkwdzYxYXlsdHlzd3ZlZnZzaWk5MG9qZmw0aTFhbHM1cjA1dnRzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LOactPJKWtNLyErSCr/giphy.gif" width="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erendurham&layout=compact&title_color=FFD1DC&icon_color=FFD1DC&text_color=000000&bg_color=ffffff&border_color=B2E2B2&langs_count=6" alt="Eren's Top Languages" height="180" />
 </p>
 
-<!--
-**ErenDurham/ErenDurham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Thanks for stopping by!
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGkwdzYxYXlsdHlzd3ZlZnZzaWk5MG9qZmw0aTFhbHM1cjA1dnRzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LOactPJKWtNLyErSCr/giphy.gif" height="100" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW1pYnY0Y3kyOWNicmljNjFuc3IwY2lqbzB5MG1mN3c3OTU1MXdqMyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/pHSNsdk7IzjzZ4qjOy/giphy.gif" height="100" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW1pYnY0Y3kyOWNicmljNjFuc3IwY2lqbzB5MG1mN3c3OTU1MXdqMyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/X5PsaxTP6U3h9dUSxd/giphy.gif" height="110" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
