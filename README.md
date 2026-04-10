@@ -3,7 +3,7 @@
 <!-- # Hello! I am Eren Durham <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnU3eDQwdDExdXFvMnpiaHQzOGFwdWhiYnZldmg1bTljcWlpbTYyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9F2ExfXlv4UYb0w0zw/giphy.gif" height="50"> -->
 
 ## 🌱 About Me
-I’m a driven computer engineering student passionate about AI, machine learning, and hardware design
+I’m a driven computer engineering student passionate about AI, machine learning, robotics, and hardware design
 
 ## 🌷 Currently Working On
 - Researching ML approaches in prosthetic gesture recognition
