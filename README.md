@@ -25,6 +25,9 @@ I’m a driven computer engineering student at the University of Central Florida
   <img src="https://img.shields.io/badge/OOP-FFD1DC?style=flat" />
   <img src="https://img.shields.io/badge/Data%20Structures-B2E2B2?style=flat" />
   <img src="https://img.shields.io/badge/Git-FFD1DC?style=flat&logo=git&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-B2E2B2?style=flat&logo=docker&logoColor=black" />
+  <img src="https://img.shields.io/badge/Robotic%20Systems-FFD1DC?style=flat&logo=ros&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux-B2E2B2?style=flat&logo=linux&logoColor=black" />
 </div>
 
 ## 🌸 How to Reach Me:
