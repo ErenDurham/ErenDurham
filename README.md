@@ -2,15 +2,15 @@
 
 <!-- # Hello! I am Eren Durham <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnU3eDQwdDExdXFvMnpiaHQzOGFwdWhiYnZldmg1bTljcWlpbTYyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9F2ExfXlv4UYb0w0zw/giphy.gif" height="50"> -->
 
-## 🌱 About Me .☘︎ ݁˖ ⋆.˚.
+## 🌱 About Me
 I’m a driven computer engineering student at the University of Central Florida passionate about AI, machine learning, robotics, and hardware design. I demonstrate my abilities with artifical intelligence within the Laboratory for Interaction of Machine and Brain (LIMB), while expanding my knowledge within the robotics field by researching at West Virginia University. In my off time, I learn about computer architecture and hardware design.
 
-## 🌷 Currently Working On ‧₊˚❀༉‧₊˚.
+## 🌷 Currently Working On
 - Researching ML approaches in prosthetic gesture recognition
 - Learning hardware design with SystemVerilog
 - Implementing the use of AI in robotic systems
 
-## 🌿 Technical Skills ⋆.˚⟡ ࣪ ˖
+## 🌿 Technical Skills
 <div align="center">
   <img src="https://img.shields.io/badge/Python-FFD1DC?style=flat&logo=python&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-B2E2B2?style=flat&logo=openjdk&logoColor=black" />
@@ -31,7 +31,7 @@ I’m a driven computer engineering student at the University of Central Florida
   <img src="https://img.shields.io/badge/Linux-FFD1DC?style=flat&logo=linux&logoColor=black" />
 </div>
 
-## 🌸 How to Reach Me . ₊˚ ☎︎₊˚✧
+## 🌸 How to Reach Me
 <p align="center">
   <a href="https://www.linkedin.com/in/erendurham/">
     <img src="https://img.shields.io/badge/LinkedIn-FFD1DC?style=flat&logo=linkedin&logoColor=black" height="40" />
